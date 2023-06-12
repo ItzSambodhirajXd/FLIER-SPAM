@@ -1,0 +1,5 @@
+build:
+  docker:
+    FLIER: Dockerfile
+run:
+  FLIER: python3 -m main.py
