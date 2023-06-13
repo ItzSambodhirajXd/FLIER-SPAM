@@ -22,7 +22,7 @@ def load_plugins(plugin_name):
     load.logger = logging.getLogger(plugin_name)
     spec.loader.exec_module(load)
     sys.modules["FLIERBOTS.modules." + plugin_name] = load
-    print("Flier has Imported " + plugin_name)
+    print("FLIER has Imported " + plugin_name)
 
 
 files = glob.glob("FLIERBOTS/modules/*.py")
