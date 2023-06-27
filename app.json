@@ -1,6 +1,6 @@
 {
     "name": "FLIER HERE.",
-    "logo": "https://telegra.ph/file/b1bc8816c6702c6aa5b71.jpg",
+    "logo": "https://telegra.ph/file/521cdcf14b730bb47bf78.jpg",
     "keywords": [
         "telegram",
         "telethon",
@@ -8,7 +8,7 @@
         "PythonX",
         "SpamBots"
     ],
-    "repository": "https://github.com/Atanu9729/FLIER-SPAM",
+    "repository": "https://github.com/ItzSambodhirajXd",
     "env": {
       "BOT_TOKEN": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
