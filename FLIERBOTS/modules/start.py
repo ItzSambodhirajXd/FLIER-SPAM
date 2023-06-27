@@ -12,7 +12,7 @@ START_BUTTON = [
         Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/UNC_SUPPORT")
     ],
     [
-        Button.url("• ʀᴇᴘᴏ •", "https://t.me/ITS_SAMBODHIRAJ")
+        Button.url("• ʀᴇᴘᴏ •", "https://github.com/ItzSambodhirajXd/FLIER-SPAM")
     ]
 ]
 
@@ -34,7 +34,7 @@ async def start(event):
         bot_name = FLIERBOTS.first_name
         bot_id = FLIERBOTS.id
         TEXT = f"**ʜᴇʏ​ [{event.sender.first_name}](tg://user?id={event.sender.id}),\n\nɪ ᴀᴍ [{bot_name}](tg://user?id={bot_id})​**\n━━━━━━━━━━━━━━━━━━━\n\n"
-        TEXT += f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ : [𝐊ɪʟʟ ✘ 𝐒ᴡɪᴛᴄʜ](https://t.me/ITS_SAMBODHIRAJ)**\n\n"
+        TEXT += f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ : [PAID](https://t.me/ITS_SAMBODHIRAJ)**\n\n"
         TEXT += f"» **ғʟɪᴇʀ ᴠᴇʀsɪᴏɴ :** `M3.3`\n"
         TEXT += f"» **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `3.11.3`\n"
         TEXT += f"» **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{__version__}`\n━━━━━━━━━━━━━━━━━"
