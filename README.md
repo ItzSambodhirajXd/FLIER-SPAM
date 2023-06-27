@@ -2,7 +2,9 @@
 
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
-<p align="center"><a href="https://t.me/Kill_switch16"><img src="[https://telegra.ph/file/b1bc8816c6702c6aa5b71.jpg](https://telegra.ph/file/521cdcf14b730bb47bf78.jpg)" width="400"></a></p>
+
+
+<p align="center"><a href="https://t.me/Kill_switch16"><img src="https://telegra.ph/file/521cdcf14b730bb47bf78.jpg" width="400"></a></p>
 
 
 > ⭐️ Thanks to everyone for using this op ABOTS. That is the greatest pleasure we have !
