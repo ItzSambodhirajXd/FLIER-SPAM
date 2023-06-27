@@ -8,11 +8,11 @@ START_BUTTON = [
         Button.inline("• ᴄᴏᴍᴍᴀɴᴅs •", data="help_back")
     ],
     [
-        Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/FLIERS_SPAMBOT_SUPPORT"),
-        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/FLIERS_SPAM_SUPPORT")
+        Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/UNITED_NETWORK_COUNCIL"),
+        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/UNC_SUPPORT")
     ],
     [
-        Button.url("• ʀᴇᴘᴏ •", "https://github.com/Atanu9729/FLIER-SPAM")
+        Button.url("• ʀᴇᴘᴏ •", "https://t.me/ITS_SAMBODHIRAJ")
     ]
 ]
 
@@ -34,13 +34,13 @@ async def start(event):
         bot_name = FLIERBOTS.first_name
         bot_id = FLIERBOTS.id
         TEXT = f"**ʜᴇʏ​ [{event.sender.first_name}](tg://user?id={event.sender.id}),\n\nɪ ᴀᴍ [{bot_name}](tg://user?id={bot_id})​**\n━━━━━━━━━━━━━━━━━━━\n\n"
-        TEXT += f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ : [𝐊ɪʟʟ ✘ 𝐒ᴡɪᴛᴄʜ](https://t.me/Kill_switch16)**\n\n"
+        TEXT += f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ : [𝐊ɪʟʟ ✘ 𝐒ᴡɪᴛᴄʜ](https://t.me/ITS_SAMBODHIRAJ)**\n\n"
         TEXT += f"» **ғʟɪᴇʀ ᴠᴇʀsɪᴏɴ :** `M3.3`\n"
         TEXT += f"» **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `3.11.3`\n"
         TEXT += f"» **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{__version__}`\n━━━━━━━━━━━━━━━━━"
         await event.client.send_file(
                     event.chat_id,
-                    "https://telegra.ph/file/b1bc8816c6702c6aa5b71.jpg",
+                    "https://telegra.ph/file/521cdcf14b730bb47bf78.jpg",
                     caption=TEXT, 
                     buttons=START_BUTTON
                 )
